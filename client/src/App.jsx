@@ -1,12 +1,12 @@
 import React from 'react';
-import Navbar from './Components/Navbar';
-import Header from './Components/Header';
-import Companies from './Components/Companies';
-import Features from './Components/Features';
-import BigFeatures from './Components/BigFeatures';
-import Footer from './Components/Footer';
-import SubFooter from './Components/SubFooter';
-import MapPage from './Components/MapPage';
+import Navbar from './components/Navbar';
+import Header from './components/Header';
+import Companies from './components/Companies';
+import Features from './components/Features';
+import BigFeatures from './components/BigFeatures';
+import Footer from './components/Footer';
+import SubFooter from './components/SubFooter';
+import MapPage from './components/MapPage';
 
 export default function App() {
   return (
