@@ -1,4 +1,4 @@
-# 🛡️ SheSafe
+# 🛡️Safer-Route-Navigation(SheSafe)
 
 SheSafe is a full-stack application that helps users evaluate safer routes by analyzing crime data along selected paths. The platform calculates a **crime quotient** using dummy JSON data (in this prototype) and provides safer navigation insights.
 
@@ -85,11 +85,11 @@ The app will be running at **[http://localhost:3000](http://localhost:3000)** �
 
 Scroll down to see the map and input your start and end locations to get safer route suggestions!
 
-![Map](./client/public/assets/Map 3.png)
+![Map](https://github.com/darth-divyansh/Safer-Route-Navigation-SheSafe/blob/main/client/public/assets/Map%203.png)
 
-![Map](./client/public/assets/Map 1.png)
+![Map](https://github.com/darth-divyansh/Safer-Route-Navigation-SheSafe/blob/main/client/public/assets/Map%201.png)
 
-![Map](./client/public/assets/Map 2.png)
+![Map](https://github.com/darth-divyansh/Safer-Route-Navigation-SheSafe/blob/main/client/public/assets/Map%202.png)
 
 ---
 
